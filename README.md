@@ -37,9 +37,7 @@ and problem-solving skills.
 
 More projects will be added as I continue learning.
 
-## 🏆 Certifications
 
-- Responsive Web Design — freeCodeCamp
 
 ## 🎯 Goals
 
