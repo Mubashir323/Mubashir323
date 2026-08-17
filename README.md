@@ -32,11 +32,12 @@ and use technology to solve real-world problems.
 
 ## 🚀 Projects
 
-I am currently building projects to improve my programming
-and problem-solving skills.
+### 🧮 Python Calculator
+A beginner Python project for practicing user input, variables, arithmetic operations, and basic problem-solving.
+
+🔗 [View Project](https://github.com/Mubashir323/python-calculator)
 
 More projects will be added as I continue learning.
-
 
 
 ## 🎯 Goals
