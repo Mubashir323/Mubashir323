@@ -32,6 +32,14 @@ and use technology to solve real-world problems.
 
 ## 🚀 Projects
 
+### 📊 Student Grade Analyzer
+
+A Python application that analyzes student marks and calculates grades, averages, and overall results.
+
+**Skills:** Python, lists, loops, conditions, JSON, file handling, data processing
+
+🔗 [View Project](https://github.com/Mubashir323/student-grade-analyzer)
+
 ### 📋 Student Task Manager
 
 A Python task management application with JSON-based data storage.
