@@ -32,13 +32,37 @@ and use technology to solve real-world problems.
 
 ## 🚀 Projects
 
+### 📋 Student Task Manager
+
+A Python task management application with JSON-based data storage.
+
+**Skills:** Python, JSON, file handling, lists, dictionaries
+
+🔗 [View Project](https://github.com/Mubashir323/student-task-manager)
+
+### 📝 Python Quiz Game
+
+A beginner-friendly Python quiz game that asks multiple-choice questions and tracks the player's score.
+
+**Skills:** Python, user input, conditions, variables, score tracking
+
+🔗 [View Project](https://github.com/Mubashir323/python-quiz-game)
+
+### 🎯 Number Guessing Game
+
+A Python game where the computer generates a random number and the player tries to guess it.
+
+**Skills:** Python, loops, conditions, random numbers, user input
+
+🔗 [View Project](https://github.com/Mubashir323/number-guessing-game)
+
 ### 🧮 Python Calculator
-A beginner Python project for practicing user input, variables, arithmetic operations, and basic problem-solving.
+
+My first Python project for practicing user input, variables, arithmetic operations, and basic problem-solving.
+
+**Skills:** Python, variables, input, arithmetic, conditions
 
 🔗 [View Project](https://github.com/Mubashir323/python-calculator)
-
-More projects will be added as I continue learning.
-
 
 ## 🎯 Goals
 
