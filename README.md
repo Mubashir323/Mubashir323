@@ -72,6 +72,16 @@ My first Python project for practicing user input, variables, arithmetic operati
 
 🔗 [View Project](https://github.com/Mubashir323/python-calculator)
 
+## 📈 Learning Journey
+
+I started with small Python programs to build my programming fundamentals.
+
+As I progressed, I began working with loops, conditions, lists, file handling, and JSON data.
+
+My current projects reflect my progress from basic programming exercises to practical applications.
+
+My next goal is to build web-based projects and continue developing my Computer Science skills.
+
 ## 🎯 Goals
 
 - Pursue a Bachelor's degree in Computer Science
